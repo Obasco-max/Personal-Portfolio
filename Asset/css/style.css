@@ -4,6 +4,8 @@
     font-family: 'Poppins' sans-serif;
     box-sizing: border-box;
 } 
+
+
 body{
     
     color: #fff;
@@ -43,7 +45,7 @@ body{
     align-items: center;
     height: 100vh;
     padding: 0 10%;
-    background-image: url(/Asset/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+    background-image: url(../images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
     background-size: cover;
 }
 
